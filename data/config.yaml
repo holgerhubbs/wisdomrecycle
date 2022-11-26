@@ -1,6 +1,6 @@
 name: Jacky Zhao
 enableToc: true
-openToc: false
+openToc: true
 enableLinkPreview: true
 enableLatex: true
 enableCodeBlockTitle: true
@@ -17,10 +17,9 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Concepts & pointers to debunk suffering.
 page_title:
-  "🪴 WisdomeRecycle.com..."
+  "🪴 WisdomeRecycle.com"
 links:
   - link_name: Twitter
     link: https://twitter.com/_jzhao
