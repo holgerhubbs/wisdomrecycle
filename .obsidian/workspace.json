@@ -19,20 +19,20 @@
             "id": "fa8aa74ce73936e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "2edce37c1e8be2e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/subpage.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -102,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/subpage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/subpage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/subpage.md"
+              }
             }
           }
         ]
@@ -151,7 +155,7 @@
   },
   "active": "2edce37c1e8be2e0",
   "lastOpenFiles": [
-    "Untitled.md",
+    "content/subpage.md",
     "content/Untitled.md"
   ]
 }
