@@ -2,4 +2,4 @@
 title: "Subpage"
 ---
 
-Link back to [[_index | Home]]
+Link back to [HOME](/)
