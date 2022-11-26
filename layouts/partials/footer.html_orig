@@ -7,7 +7,7 @@
     <div class="backlinks-container">
         {{partial "backlinks.html" .}}
     </div>
-    <div style="width: 100%;">
+    <div>
         {{partial "graph.html" .}}
     </div>
 </div>
