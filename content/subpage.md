@@ -3,6 +3,6 @@ title: "Subpage"
 ---
 
 
-Back to Home >>> [[_index]].
+Back to Home >>> [_index](_index.md)
 
-/// shortest path when possible
+/// absolute path

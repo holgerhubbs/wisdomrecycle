@@ -6,9 +6,9 @@ tag: test
 ---
 
 Hello World...
-[[subpage]]
+[subpage](subpage.md)
 
-/// shortest path when possible
+/// absolute path
 
 
 
