@@ -3,6 +3,7 @@ title: "Subpage"
 ---
 
 
-Back to Home >>> [_index](_index.md)
+Back to Home >>> [_index](/_index.md)
+[[_index]]
 
-/// absolute path
+/// absolute path in vault
