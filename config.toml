@@ -1,7 +1,7 @@
-baseURL = "https://holgerhubbs.github.io/wisdomrecycle/"
+baseURL = "https://wisdomrecycle.com"
 languageCode = "en-us"
 googleAnalytics = ""
-relativeURLs = false
+relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
