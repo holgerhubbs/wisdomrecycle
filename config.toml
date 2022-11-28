@@ -1,4 +1,4 @@
-baseURL = "https://wisdomrecycle.com"
+baseURL = "https://wisdomrecycle.com/"
 languageCode = "en-us"
 googleAnalytics = ""
 relativeURLs = true
