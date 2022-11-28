@@ -1,10 +1,10 @@
 ---
 title: "Subpage"
+tag: test
 ---
 
 
-Back to Home >>> [_index](/_index.md)
-[[_index]]
+Back to [[_index|Home]]
 
 /// absolute path in vault
 
