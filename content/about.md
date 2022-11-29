@@ -6,7 +6,7 @@ title: "About This Website"
 This website is a playground for Holger [Hubbs](http://hub-bs.com).
 
 
-## Digital Garden
+## Digital Garden 
 "... a network of interconnected ideas and thoughts, clustered by how they are associated with each other."
 
 
