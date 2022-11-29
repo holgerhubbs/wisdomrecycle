@@ -7,20 +7,20 @@ title: "PEOPLE"
 
 ## Nonduality Presenters
 ### Alive
-[[Roger Castillo]]  
+[[../Roger Castillo]]  
 [[Rupert Spira]]  
 [[Magdi Badawy]]  
-[[Mooji]]  
+[[alive/Mooji]]  
 [[Eckhart Tolle]]  
 
   
 ### Historic
-[[Ramesh Balsekar]]
-[[Mr. Jesus]]  
-[[Nisargadatta Maharaj]]
-[[Meister Eckhart]]
-[[Rumi]]
+[[historic/Ramesh Balsekar]]  
+[[Mr. Jesus]]    
+[[historic/Nisargadatta Maharaj]]  
+[[historic/Meister Eckhart]]  
+[[historic/Rumi]]  
 
 
 ### Productivity
-[[David Allen]] 
+[[alive/David Allen]]   
