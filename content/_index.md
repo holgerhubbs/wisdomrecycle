@@ -5,13 +5,7 @@ tag: test
 
 ---
 
-Hello World...
-[subpage](subpage.md)
 
-Wikilink: [[subpage]]
+[[about|About this website]]
 
-/// absolute path
-
-
-
-
+[[httpswww.youtube.comwatchv=l0TzeH6Zmog&ab_channel=BigThink]]
