@@ -7,16 +7,16 @@ title: "PEOPLE"
 
 ## Nonduality Presenters
 ### Alive
-[[Roger Castillo]] -- [[What do I really want]]?
-[[Rupert Spira]] -- [[When the journey to God ends]]
-[[Magdi Badawy]]  -- [[God is not in the suffering business.]]
-[[Mooji]] -- [[Excitement is a scam of the mind]]
-[[Eckhart Tolle]]  -- [[Let me summarize the process]]
+[[Roger Castillo]]  
+[[Rupert Spira]]  
+[[Magdi Badawy]]  
+[[Mooji]]  
+[[Eckhart Tolle]]  
 
   
 ### Historic
 [[Ramesh Balsekar]]
-[[Jesus]] -- [[In me you have peace]]
+[[Mr. Jesus]]  
 [[Nisargadatta Maharaj]]
 [[Meister Eckhart]]
 [[Rumi]]
