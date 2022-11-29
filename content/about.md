@@ -17,4 +17,5 @@ This "[Digital Garden](https://jzhao.xyz/posts/networked-thought/)" is being gro
 ## More about "me"
 [Nondual.Community/Holger](http://Nondual.Community/Holger)
 
+
 [Holger@WisdomRecycle.com](mailto:Holger@WisdomRecycle.com)  
