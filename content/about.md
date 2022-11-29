@@ -18,7 +18,6 @@ The files are being processed via [Quartz](https://github.com/jackyzha0/quartz) 
 ## More about "me"
 Meet me at the [GardenOfFriends.com](http://GardenOfFriends.com)   
 [Nondual.Community/Holger](http://Nondual.Community/Holger)   
-  
-[Holger@WisdomRecycle.com](mailto:Holger@WisdomRecycle.com)    
+
 
 ![[attachments/_DSC6799_1200x935.jpg]]
