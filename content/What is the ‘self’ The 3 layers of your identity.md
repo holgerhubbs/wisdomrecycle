@@ -1,6 +1,5 @@
 ---
-title: The 3 layers of your identity.  
-Sam Harris, Mark Epstein
+title: The 3 layers of your identity. Sam Harris, Mark Epstein
 tag: psychology
 ---
 What is the ‘self’?   
