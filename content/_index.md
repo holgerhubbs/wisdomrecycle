@@ -5,6 +5,6 @@ tag: test
 ---
 
 
-[[about|About this website]]
+[[about this|About this website]]
 
 [[What is the ‘self’ The 3 layers of your identity]]
