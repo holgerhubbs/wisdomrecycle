@@ -19,7 +19,7 @@ This "[Digital Garden](https://jzhao.xyz/posts/networked-thought/)" is being gro
 ![[_DSC6799_1200x935.jpg]]
 
 ## More about "me"
-Meet me at the [GardenOfFriends.com](http://GardenOfFriends.com)  
-[Nondual.Community/Holger](http://Nondual.Community/Holger)  
-
+Meet me at the [GardenOfFriends.com](http://GardenOfFriends.com)   
+[Nondual.Community/Holger](http://Nondual.Community/Holger)   
+  
 [Holger@WisdomRecycle.com](mailto:Holger@WisdomRecycle.com)    
