@@ -11,7 +11,7 @@ This website is a playground for Holger [Hubbs](http://hub-bs.com).
 
 
 ## Some Tech
-This "Digital Garden" is being grown in [Obsidian.md](http://Obsidian.md), the files processed via [Quartz](https://github.com/jackyzha0/quartz) and published as [GitHub Pages](https://pages.github.com/). 
+This "[Digital Garden](https://jzhao.xyz/posts/networked-thought/)" is being grown in [Obsidian.md](http://Obsidian.md), the files processed via [Quartz](https://github.com/jackyzha0/quartz) and published as [GitHub Pages](https://pages.github.com/). 
 
 
 ## More about "me"
