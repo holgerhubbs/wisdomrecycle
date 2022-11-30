@@ -5,10 +5,9 @@ tag: test
 ---
 
 
-[[about|About this website]]
+After some hands-on experience I decided that I stick with the [Obsidian.md](http://Obsidian.md) Publish service. 
 
-[[20 People/PEOPLE]]
+This [QUARTZ](https://github.com/jackyzha0/quartz) solution is nice and has its charm, but Obsidian Publish is easier to handle regarding links and front-matter (related to my existing vault).
 
---- 
-Sort:
-[[What is the ‘self’ The 3 layers of your identity]]
+Starting a vault from scratch, I might revisit this solution.
+
